@@ -18,7 +18,7 @@
 ## Political Parties
 |||||
 |---|---|---|---|
-|![#FAA61A](https://via.placeholder.com/15/FAA61A/000000?text=+)| Lib Dem Yellow|`#FAA61A`| `rgb(255,159,26)`|
+|![#FAA61A](https://via.placeholder.com/15/FAA61A/000000?text=+)| Lib Dem Yellow|`#FAA61A`| `rgb(255, 159, 26)`|
 |![#E4003B](https://via.placeholder.com/15/E4003B/000000?text=+)| Labour Red |`#E4003B`| `rgb(228, 0, 59)`|
 |![#0087DC](https://via.placeholder.com/15/0087DC/000000?text=+)| Tory Blue|`#0087DC`| `rgb(0, 135, 220)`|
 |![#6AB023](https://via.placeholder.com/15/6AB023/000000?text=+)| Green |`#6AB023`| `rgb(106, 176, 35)`|
