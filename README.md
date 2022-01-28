@@ -2,7 +2,7 @@
 ## Generic
 |||||
 |---|---|---|---|
-|![#E41A1C](https://via.placeholder.com/15/E41A1C/000000?text=+)| Red| `#E41A1C`| `rgb(228,26,28)`|
+|![#E41A1C](https://via.placeholder.com/15/E41A1C/000000?text=+)| Red| `#E41A1C`| `rgb(228, 26, 28)`|
 |![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+)| Orange| `#FF7F00`| `rgb(255, 127, 0)`|
 |![#F6CB2F](https://via.placeholder.com/15/F6CB2F/000000?text=+)| Yellow|`#F6CB2F`| `rgb(246, 203, 47)`|
 |![#4DAF4A](https://via.placeholder.com/15/4DAF4A/000000?text=+)| Green | `#4DAF4A`|`rgb(77, 175, 74)`|
