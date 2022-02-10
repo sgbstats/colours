@@ -24,3 +24,4 @@
 |![#6AB023](https://via.placeholder.com/15/6AB023/000000?text=+)| Green |`#6AB023`| `rgb(106, 176, 35)`|
 
 [Lib Dem Style Guide](https://www.libdems.org.uk/styleguide)
+[Colours of political parties](https://en.wikipedia.org/wiki/Wikipedia:Index_of_United_Kingdom_political_parties_meta_attributes)
