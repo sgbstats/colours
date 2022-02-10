@@ -9,7 +9,7 @@
 |![#005EB8](https://via.placeholder.com/15/005EB8/000000?text=+)| NHS Blue | `#005EB8` |`rgb(0, 94, 184)`|
 |![#984EA3](https://via.placeholder.com/15/984EA3/000000?text=+)| Purple| `#984EA3`| `rgb(152, 78, 163)`|
 |![#660099](https://via.placeholder.com/15/660099/000000?text=+)| UoM Purple| `#660099`| `rgb(102, 0, 153)`|
-|![#FF10F0](https://via.placeholder.com/15/FF10F0/000000?text=+)| Pink| `#FF10F0` |`rgb(255, 16, 240)`|
+|![#F77FBE](https://via.placeholder.com/15/F77FBE/000000?text=+)| Pink| `#F77FBE` |`rgb(247, 127, 190)`|
 
 [NHS Colour Pallete](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/)
 
