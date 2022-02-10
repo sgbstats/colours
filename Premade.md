@@ -6,7 +6,7 @@ Dark2
 
 Colourblind friendly
 
-|||||
+||||
 |---|---|---|
 |![#1B9E77](https://via.placeholder.com/15/1B9E77/000000?text=+)| `#1B9E77`| `rgb(27, 158, 119)`|
 |![#D95F02](https://via.placeholder.com/15/D95F02/000000?text=+)| `#D95F02`| `rgb(217, 95, 2)`|
