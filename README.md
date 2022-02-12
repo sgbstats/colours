@@ -7,6 +7,7 @@
 |![#F6CB2F](https://via.placeholder.com/15/F6CB2F/000000?text=+)| Yellow|`#F6CB2F`| `rgb(246, 203, 47)`|
 |![#4DAF4A](https://via.placeholder.com/15/4DAF4A/000000?text=+)| Green | `#4DAF4A`|`rgb(77, 175, 74)`|
 |![#005EB8](https://via.placeholder.com/15/005EB8/000000?text=+)| NHS Blue | `#005EB8` |`rgb(0, 94, 184)`|
+|![#072F5F](https://via.placeholder.com/15/072F5F/000000?text=+)| Anvy | `#072F5F` |`rgb(7, 47, 95)`|
 |![#984EA3](https://via.placeholder.com/15/984EA3/000000?text=+)| Purple| `#984EA3`| `rgb(152, 78, 163)`|
 |![#660099](https://via.placeholder.com/15/660099/000000?text=+)| UoM Purple| `#660099`| `rgb(102, 0, 153)`|
 |![#F77FBE](https://via.placeholder.com/15/F77FBE/000000?text=+)| Pink| `#F77FBE` |`rgb(247, 127, 190)`|
