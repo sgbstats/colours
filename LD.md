@@ -1,4 +1,4 @@
-# LD Style Guide
+## LD Style Guide
 
 |||||
 |---|---|---|---|
@@ -20,4 +20,12 @@
 |![#007AC0](https://via.placeholder.com/15/007AC0/000000?text=+)| Pseudo Tory|`#007AC0`| `rgb(0, 122, 192)`|
 |![#67B437](https://via.placeholder.com/15/67B437/000000?text=+)| Pseudo Green|`#67B437`| `rgb(103, 180, 55)`|
 |![#F26522](https://via.placeholder.com/15/F26522/000000?text=+)| ALDC|`#F26522`| `rgb(242, 101, 34)`|
+
+## Pastel
+
+|||||
+|---|---|---|---|
 |![#FDDDD2](https://via.placeholder.com/15/FDDDD2/000000?text=+)| Peach|`#FDDDD2`| `rgb(253, 221, 210)`|
+|![#C7E0CD](https://via.placeholder.com/15/C7E0CD/000000?text=+)| Green|`#C7E0CD`| `rgb(199, 224, 205)`|
+|![#F7A4A7](https://via.placeholder.com/15/F7A4A7/000000?text=+)| Pink|`#F7A4A7`| `rgb(247, 164, 167)`|
+|![#FFEED2](https://via.placeholder.com/15/FFEED2/000000?text=+)| Yellow|`#FFEED2`| `rgb(255, 238, 210)`|
