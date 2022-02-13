@@ -7,6 +7,7 @@
 |![#072F5F](https://via.placeholder.com/15/072F5F/000000?text=+)| Navy | `#072F5F` |`rgb(7, 47, 95)`|
 |![#f95f53](https://via.placeholder.com/15/f95f53/000000?text=+)| Coral | `#f95f53` |`rgb(249, 95, 83)`|
 |![#FDDDD2](https://via.placeholder.com/15/FDDDD2/000000?text=+)| Peach|`#FDDDD2`| `rgb(253, 221, 210)`|
+|![#F26522](https://via.placeholder.com/15/F26522/000000?text=+)| ALDC|`#F26522`| `rgb(242, 101, 34)`|
 
 
 [Lib Dem Style Guide](https://www.libdems.org.uk/styleguide)
