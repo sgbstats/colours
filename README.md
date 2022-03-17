@@ -11,6 +11,7 @@
 |![#984EA3](https://via.placeholder.com/15/984EA3/000000?text=+)| Purple| `#984EA3`| `rgb(152, 78, 163)`|
 |![#660099](https://via.placeholder.com/15/660099/000000?text=+)| UoM Purple| `#660099`| `rgb(102, 0, 153)`|
 |![#F77FBE](https://via.placeholder.com/15/F77FBE/000000?text=+)| Pink| `#F77FBE` |`rgb(247, 127, 190)`|
+|![#930C1A](https://via.placeholder.com/15/930C1A/000000?text=+)| Burnt Red| `#930C1A`| `rgb(147, 12, 26)`|
 
 [NHS Colour Pallete](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/)
 
