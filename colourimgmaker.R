@@ -27,13 +27,10 @@ linemaker=function(hex, name)
   return(line)
 }
 
-# linemaker("#FAA61A", "Lib Dem Yellow")
+# partycol=c("#FAA61A","#151721","#072F5F","#f95f53","#EF3741","#007AC0","#67B437","#F26522","#FDDDD2","#C7E0CD","#F7A4A7","#FFEED2")
+# parties=c("Lib Dem Yellow","Charcoal","Navy","Coral","Pseudo Labour","Pseudo Tory","Pseudo Green","ALDC","Peach","Green","Pink","Yellow")
 # 
-# cols=c("#E41A1C", "#FF7F00","#F6CB2F","#4DAF4A","#005EB8","#984EA3","#660099","#F77FBE","#FAA61A","#E4003B","#6AB023","#1B9E77","#D95F02","#7570B3","#E7298A","#66A61E","#A6761D","#666666")
-# 
-# for(i in cols)
+# for(i in 1:12)
 # {
-#   col(i)
+#   print(linemaker(partycol[i], parties[i]))
 # }
-# 
-# paste("img/", substr(cols, 2,7), ".png", sep="")
