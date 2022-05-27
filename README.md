@@ -2,7 +2,6 @@
 ## Generic
 |||||
 |---|---|---|---|
-
 |![#E41A1C](img/E41A1C.png)| Red| `#E41A1C`| `rgb(228, 26, 28)`|
 |![#FF7F00](img/FF7F00.png)| Orange| `#FF7F00`| `rgb(255, 127, 0)`|
 |![#F6CB2F](img/F6CB2F.png)| Yellow|`#F6CB2F`| `rgb(246, 203, 47)`|
