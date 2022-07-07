@@ -1,4 +1,5 @@
-# My List of tasteful colours
+# My List of tasteful colours and other useful resources
+
 ## Generic
 |||||
 |---|---|---|---|
