@@ -5,7 +5,7 @@
 |![#FAA61A](img/FAA61A.png)|Lib Dem Yellow|`#FAA61A`|`rgb(250,166,26)`|
 |![#151721](img/151721.png)|Charcoal|`#151721`|`rgb(21,23,33)`|
 |![#072F5F](img/072F5F.png)|Navy|`#072F5F`|`rgb(7,47,95)`|
-|![#f95f53](img/f95f53.png)|Coral|`#f95f53`|`rgb(249,95,83)`|
+|![#f95f53](img/F95F53.png)|Coral|`#F95F53`|`rgb(249,95,83)`|
 
 
 
