@@ -11,6 +11,7 @@
 |![#984EA3](img/984EA3.png)| Purple| `#984EA3`| `rgb(152, 78, 163)`|
 |![#660099](img/660099.png)| UoM Purple| `#660099`| `rgb(102, 0, 153)`|
 |![#F77FBE](img/F77FBE.png)| Pink| `#F77FBE` |`rgb(247, 127, 190)`|
+|![#660000](img/660000.png)| Rust|`#660000`|`rgb(102,0,0)`|
 
 [NHS Colour Pallete](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/)
 
@@ -19,7 +20,7 @@
 ## Political Parties
 |||||
 |---|---|---|---|
-|![#FAA61A](img/FAA61A.png)|Lib Dem Yellow|`#FAA61A`|`rgb(250,166,26)`|
+|![#FAA61A](img/FAA61A.png)| Lib Dem Yellow|`#FAA61A`|`rgb(250,166,26)`|
 |![#E4003B](img/E4003B.png)| Labour Red |`#E4003B`| `rgb(228, 0, 59)`|
 |![#0087DC](img/0087DC.png)| Tory Blue|`#0087DC`| `rgb(0, 135, 220)`|
 |![#6AB023](img/6AB023.png)| Green |`#6AB023`| `rgb(106, 176, 35)`|

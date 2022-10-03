@@ -23,7 +23,7 @@ linemaker=function(hex, name)
   
   rgb=col2rgb(hex)
   
-  line=paste("|![",hex,"](img/", substr(hex,2,7),".png)","|",name,"|`",hex,"`|`rgb(",rgb[1],",",rgb[2],",", rgb[3], ")`|", sep="" )
+  line=paste("|![",hex,"](img/", substr(hex,2,7),".png)","| ",name,"|`",hex,"`|`rgb(",rgb[1],",",rgb[2],",", rgb[3], ")`|", sep="" )
   return(line)
 }
 
@@ -34,3 +34,4 @@ linemaker=function(hex, name)
 # {
 #   print(linemaker(partycol[i], parties[i]))
 # }
+
