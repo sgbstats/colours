@@ -7,6 +7,7 @@
 |![#FF7F00](img/FF7F00.png)| Orange| `#FF7F00`| `rgb(255, 127, 0)`|
 |![#F6CB2F](img/F6CB2F.png)| Yellow|`#F6CB2F`| `rgb(246, 203, 47)`|
 |![#4DAF4A](img/4DAF4A.png)| Green | `#4DAF4A`|`rgb(77, 175, 74)`|
+|![#007AC0](img/007AC0.png)| Blue |`#007AC0`|`rgb(0,122,192)`|
 |![#005EB8](img/005EB8.png)| NHS Blue | `#005EB8` |`rgb(0, 94, 184)`|
 |![#984EA3](img/984EA3.png)| Purple| `#984EA3`| `rgb(152, 78, 163)`|
 |![#660099](img/660099.png)| UoM Purple| `#660099`| `rgb(102, 0, 153)`|
