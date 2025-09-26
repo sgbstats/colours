@@ -24,8 +24,10 @@
 |![#FAA61A](img/FAA61A.png)| Lib Dem Yellow|`#FAA61A`|`rgb(250,166,26)`|
 |![#E4003B](img/E4003B.png)| Labour Red |`#E4003B`| `rgb(228, 0, 59)`|
 |![#0087DC](img/0087DC.png)| Tory Blue|`#0087DC`| `rgb(0, 135, 220)`|
-|![#6AB023](img/6AB023.png)| Green |`#6AB023`| `rgb(106, 176, 35)`|
+|![#00a85a](img/00a85a.png)| Green|`#00a85a`|`rgb(0,168,90)`| 
+|![#00bed6](img/00bed6.png)| Reform|`#00bed6`|`rgb(0,190,214)`| 
 
-[Lib Dem Style Guide](https://www.libdems.org.uk/styleguide)
+
+[Lib Dem Style Guide](https://www.libdems.org.uk/brand)
 
 [Colours of political parties](https://en.wikipedia.org/wiki/Wikipedia:Index_of_United_Kingdom_political_parties_meta_attributes)
