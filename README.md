@@ -21,6 +21,7 @@
 ## Political Parties
 |||||
 |---|---|---|---|
+|![#ff6400](img/ff6400.png)| Democrat Orange|`#ff6400`|`rgb(255,100,0)`| 
 |![#FAA61A](img/FAA61A.png)| Lib Dem Yellow|`#FAA61A`|`rgb(250,166,26)`|
 |![#E4003B](img/E4003B.png)| Labour Red |`#E4003B`| `rgb(228, 0, 59)`|
 |![#0087DC](img/0087DC.png)| Tory Blue|`#0087DC`| `rgb(0, 135, 220)`|
