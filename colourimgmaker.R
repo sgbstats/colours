@@ -139,3 +139,21 @@ css_styles <- tribble(
 for(i in 1:nrow(css_styles)){
   cat(paste0(linemaker(css_styles$CSS[i], css_styles$Property[i])),"\n")
 }
+
+
+new_ld=tribble(~name, ~hex,
+               "Democrat Orange", "#ff6400",
+               "Democrat Orange Tint", "#FFD9BF",
+               "Community Magenta","#ff0075",
+               "Community Magenta Tint","#FFD9EB",
+               "Liberty Navy", "#072f5f",
+               "Liberty Navy Tint", "#C1CBD6",
+               "Equality Green", "#4f9161",
+               "Equality Green", "#D3E3D8",
+               "Reform", "#00bed6",
+               "Green", "#00a85a")
+
+for(i in 1:nrow(new_ld))
+{
+  cat(paste0(linemaker(new_ld$hex[i], new_ld$name[i])),"\n")
+}
