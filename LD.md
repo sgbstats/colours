@@ -6,7 +6,7 @@
 |![#FFD9BF](img/FFD9BF.png)| Democrat Orange Tint|`#FFD9BF`|`rgb(255,217,191)`| 
 |![#ff0075](img/ff0075.png)| Community Magenta|`#ff0075`|`rgb(255,0,117)`| 
 |![#FFD9EB](img/FFD9EB.png)| Community Magenta Tint|`#FFD9EB`|`rgb(255,217,235)`| 
-|![#072f5f](img/072f5f.png)| Liberty Navy|`#072f5f`|`rgb(7,47,95)`| 
+|![#072f5f](img/072F5F.png)| Liberty Navy|`#072f5f`|`rgb(7,47,95)`| 
 |![#C1CBD6](img/C1CBD6.png)| Liberty Navy Tint|`#C1CBD6`|`rgb(193,203,214)`| 
 |![#4f9161](img/4f9161.png)| Equality Green|`#4f9161`|`rgb(79,145,97)`| 
 |![#D3E3D8](img/D3E3D8.png)| Equality Green Tint|`#D3E3D8`|`rgb(211,227,216)`|
